@@ -1,5 +1,5 @@
 # sistema-de-hospedagem-CSharp
-Sistema de controle de entrada, saída e pagamento pelo serviço de hospedagem.
+Sistema de controle de entrada e pagamento pelo serviço de hospedagem.
 
 ## DIO - Trilha .NET - Explorando a linguagem
 https://dio.me/sign-up?ref=ELKCQK8YHS
